@@ -1,0 +1,16 @@
+# Projecto
+
+Usando el Framework de React, vamos a crear una pagina web simple para mostrar un Dashboard de una empresa.
+
+### Tarea 1
+
+Crear una pagina individual que contenga:
+* Header en el tope de la pagina
+    * El Header debe tener icono de la empresa (cualquier icono, puedes buscar en google)
+    * El Header debe tener icono de perfil mostrando foto circular del usuario, cuando se le de click a este, debe aparecer opcion de logout
+* Barra de navegacion a la iquierda con navegacion a las siguientes paginas
+    * Dashboard
+    * Settings
+    * La pagina inicial es la de Dashboard, no es necesario crear la pagina de settings
+* Pagina de Dashboard debe mostrar un grafico de barras con datos ficticios
+
